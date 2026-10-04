@@ -1,0 +1,197 @@
+{
+    "dataset": "ctu_uhb_ctg",
+    "task": "unsupervised_waveform_reconstruction",
+    "status": "experimental_waveform_reconstruction_baseline",
+    "seed": 42,
+    "device": "cpu",
+    "input_shape": [
+        2,
+        1200
+    ],
+    "latent_shape": [
+        64,
+        150
+    ],
+    "parameter_count": 172162,
+    "train_samples": 945,
+    "val_samples": 199,
+    "test_samples": 209,
+    "best_epoch": 25,
+    "best_val_loss": 0.012696803314611316,
+    "training_seconds": 53.8115029335022,
+    "history": [
+        {
+            "epoch": 1,
+            "train_loss": 0.349848177532355,
+            "val_loss": 0.9289484620094299,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 2,
+            "train_loss": 0.06788904095689456,
+            "val_loss": 0.11376827582716942,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 3,
+            "train_loss": 0.04837953125437101,
+            "val_loss": 0.08555577043443918,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 4,
+            "train_loss": 0.03939756577213605,
+            "val_loss": 0.07468126155436039,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 5,
+            "train_loss": 0.037380581224958104,
+            "val_loss": 0.045692962128669024,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 6,
+            "train_loss": 0.03014399583141009,
+            "val_loss": 0.03923556441441178,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 7,
+            "train_loss": 0.0313592395434777,
+            "val_loss": 0.04584155045449734,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 8,
+            "train_loss": 0.027323680991927782,
+            "val_loss": 0.028114902786910534,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 9,
+            "train_loss": 0.02599858654042085,
+            "val_loss": 0.03194136777892709,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 10,
+            "train_loss": 0.022772654394308724,
+            "val_loss": 0.051578672137111425,
+            "learning_rate": 0.001
+        },
+        {
+            "epoch": 11,
+            "train_loss": 0.02240597481528918,
+            "val_loss": 0.06081363931298256,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 12,
+            "train_loss": 0.023986992177863917,
+            "val_loss": 0.028391341445967555,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 13,
+            "train_loss": 0.016515972651541234,
+            "val_loss": 0.030686830170452595,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 14,
+            "train_loss": 0.01741797849535942,
+            "val_loss": 0.018431432079523802,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 15,
+            "train_loss": 0.015881755327184995,
+            "val_loss": 0.018403535010293126,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 16,
+            "train_loss": 0.01758564468473196,
+            "val_loss": 0.021105937659740448,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 17,
+            "train_loss": 0.015500251638392607,
+            "val_loss": 0.019038224359974265,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 18,
+            "train_loss": 0.01713743240882953,
+            "val_loss": 0.01628543040715158,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 19,
+            "train_loss": 0.016886324559648832,
+            "val_loss": 0.017027561319991946,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 20,
+            "train_loss": 0.01718007232993841,
+            "val_loss": 0.016430781688541174,
+            "learning_rate": 0.0005
+        },
+        {
+            "epoch": 21,
+            "train_loss": 0.017729314727087817,
+            "val_loss": 0.021767798578366637,
+            "learning_rate": 0.00025
+        },
+        {
+            "epoch": 22,
+            "train_loss": 0.015473884964982669,
+            "val_loss": 0.01745611964724958,
+            "learning_rate": 0.00025
+        },
+        {
+            "epoch": 23,
+            "train_loss": 0.013306008341411749,
+            "val_loss": 0.025155377108603716,
+            "learning_rate": 0.00025
+        },
+        {
+            "epoch": 24,
+            "train_loss": 0.014921932977934678,
+            "val_loss": 0.014942956855520606,
+            "learning_rate": 0.00025
+        },
+        {
+            "epoch": 25,
+            "train_loss": 0.015479247830808163,
+            "val_loss": 0.012696803314611316,
+            "learning_rate": 0.00025
+        }
+    ],
+    "locked_test_metrics": {
+        "mse": 0.00906303245574236,
+        "rmse": 0.09519996037678986,
+        "mae": 0.04777446389198303,
+        "snr_db": 20.971773491851025,
+        "channel_metrics": {
+            "channel_0": {
+                "mse": 0.012195232324302197,
+                "rmse": 0.11043202580910212,
+                "mae": 0.053248435258865356,
+                "pearson_r": 0.9948880755897902
+            },
+            "channel_1": {
+                "mse": 0.005930831655859947,
+                "rmse": 0.07701189295076409,
+                "mae": 0.0423005074262619,
+                "pearson_r": 0.9973758704413866
+            }
+        }
+    },
+    "model_path": "D:\\Backend\\serenova-backend\\data\\results\\ctu_uhb_ctg\\model\\ctu_uhb_ctg_1dcnn_autoencoder.pt",
+    "processed_data": "D:\\Backend\\serenova-backend\\data\\processed\\ctu_uhb_ctg",
+    "note": "This is an unsupervised CTU-UHB CTG waveform representation baseline. No clinical target is assigned at this stage."
+}

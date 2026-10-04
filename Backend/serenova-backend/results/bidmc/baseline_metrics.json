@@ -1,0 +1,33 @@
+{
+    "model_architecture": "Waveform1DCNNAutoencoder",
+    "task": "unsupervised_waveform_representation_and_reconstruction",
+    "dataset": "bidmc",
+    "input_channels": 2,
+    "input_window_samples": 1250,
+    "sampling_rate_hz": 125,
+    "parameters_count": 194946,
+    "training_epochs": 15,
+    "training_time_seconds": 26.07,
+    "best_val_mse": 0.001539,
+    "test_metrics": {
+        "overall": {
+            "mse": 0.001429,
+            "rmse": 0.037796,
+            "mae": 0.022509,
+            "snr_db": 26.74
+        },
+        "ppg_channel": {
+            "channel_name": "PLETH_PPG",
+            "mse": 0.001867,
+            "mae": 0.025605,
+            "pearson_r": 0.9993
+        },
+        "respiration_channel": {
+            "channel_name": "RESP",
+            "mse": 0.00099,
+            "mae": 0.019412,
+            "pearson_r": 0.999
+        }
+    },
+    "checkpoint_path": "D:\\Backend\\serenova-backend\\results\\bidmc\\model\\bidmc_1dcnn_autoencoder.pt"
+}

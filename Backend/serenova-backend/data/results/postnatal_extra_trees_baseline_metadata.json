@@ -1,0 +1,59 @@
+{
+  "project": "Serenova",
+  "task": "postnatal_binary_classification",
+  "status": "experimental_baseline",
+  "model": "ExtraTreesClassifier",
+  "preprocessing": "OneHotEncoder(handle_unknown='ignore')",
+  "artifact_type": "sklearn_pipeline_joblib",
+  "random_state": 42,
+  "features": [
+    "Age",
+    "Feeling sad or Tearful",
+    "Irritable towards baby & partner",
+    "Trouble sleeping at night",
+    "Problems concentrating or making decision",
+    "Overeating or loss of appetite",
+    "Feeling anxious",
+    "Feeling of guilt",
+    "Problems of bonding with baby"
+  ],
+  "target_column": "Suicide attempt",
+  "target_mapping": {
+    "No": 0,
+    "Yes": 1
+  },
+  "excluded_target": "Not interested to say",
+  "excluded_feature": "Timestamp",
+  "clean_rows": 314,
+  "train_rows": 201,
+  "validation_rows": 50,
+  "train_plus_validation_rows": 251,
+  "locked_test_rows": 63,
+  "unique_groups": 243,
+  "duplicate_rows_removed": 1080,
+  "missing_rows_removed": 12,
+  "unknown_target_rows_removed": 90,
+  "conflicting_rows_removed": 7,
+  "cv_macro_f1": 0.7356,
+  "locked_test_accuracy": 0.7301587301587301,
+  "locked_test_macro_precision": 0.7367021276595744,
+  "locked_test_macro_recall": 0.6873684210526316,
+  "locked_test_macro_f1": 0.6926829268292682,
+  "locked_test_yes_precision": 0.75,
+  "locked_test_yes_recall": 0.48,
+  "locked_test_yes_f1": 0.5853658536585366,
+  "confusion_matrix": [
+    [
+      34,
+      4
+    ],
+    [
+      13,
+      12
+    ]
+  ],
+  "test_used_for_training": false,
+  "test_used_for_model_selection": false,
+  "clinical_validation": false,
+  "production_approved": false
+}

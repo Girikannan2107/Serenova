@@ -1,0 +1,6082 @@
+{
+  "dataset": "ctu_uhb_ctg",
+  "raw_directory": "D:\\Backend\\serenova-backend\\data\\raw\\ctu-chb\\ctu-chb-intrapartum-cardiotocography-database-1.0.0",
+  "records_inspected": 552,
+  "records_with_annotations": 0,
+  "records_without_annotations": 552,
+  "annotation_summary": {},
+  "records": [
+    {
+      "record": "1001",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1002",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1003",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1004",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1005",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1006",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1007",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1008",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1009",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1010",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1011",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1012",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1013",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1014",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1015",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1016",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1017",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1018",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1019",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1020",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1021",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1022",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15620,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1023",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1024",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1025",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1026",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1027",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1028",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1029",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1030",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1031",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1032",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1033",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1034",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1035",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1036",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1037",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1038",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1039",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1040",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1041",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1042",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1043",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1044",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1045",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1046",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1047",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1048",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1049",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1050",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1051",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1052",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1053",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1054",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1055",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1056",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1057",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1058",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1059",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1060",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1061",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1062",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1063",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1064",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1065",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1066",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1067",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1068",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16623,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1069",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1070",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1071",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1072",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1073",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1074",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1075",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1076",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1077",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16952,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1078",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1079",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1080",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1081",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1082",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1083",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1084",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1085",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1086",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1087",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1088",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1089",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1090",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1091",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1092",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1093",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1094",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1095",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1096",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1097",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1098",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1099",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1100",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1101",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1102",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15620,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1103",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1104",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1105",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1106",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1107",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1108",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1109",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1110",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1111",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1112",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1113",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1114",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1115",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1116",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1117",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1118",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1119",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1120",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1121",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1122",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1123",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1124",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1125",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1126",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1127",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1128",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1129",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16820,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1130",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1131",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1132",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1133",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1134",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1135",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1136",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1137",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1138",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1139",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1140",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1141",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1142",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1143",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1144",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1145",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1146",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1147",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1148",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1149",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1150",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1151",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1152",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1153",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1154",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1155",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1156",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1157",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1158",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1159",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1160",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1161",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1162",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 14400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1163",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1164",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1165",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1166",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1167",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1168",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1169",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1170",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1171",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1172",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1173",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1174",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1175",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1176",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1177",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1178",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1179",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1180",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1181",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1182",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1183",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1184",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1185",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1186",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1187",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1188",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1189",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1190",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1191",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1192",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1193",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1194",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1195",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1196",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1197",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1198",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1199",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1200",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1201",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1202",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1203",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18016,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1204",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1205",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1206",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1207",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 14880,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1208",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1209",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1210",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1211",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1212",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1213",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1214",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1215",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1216",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1217",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1218",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21030,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1219",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1220",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1221",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1222",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1223",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1224",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1225",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1226",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1227",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1228",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1229",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1230",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1231",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1232",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1233",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1234",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1235",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1236",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1237",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1238",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1239",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1240",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1241",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1242",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1243",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1244",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1245",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1246",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1247",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1248",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1249",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1250",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1251",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1252",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1253",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1254",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1255",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1256",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20416,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1257",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1258",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1259",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1260",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1261",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1262",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1263",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1264",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1265",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1266",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1267",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1268",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1269",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1270",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1271",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1272",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1273",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1274",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15542,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1275",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1276",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1277",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1278",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1279",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1280",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16254,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1281",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1282",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1283",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1284",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1285",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1286",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1287",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1288",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1289",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1290",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1291",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1292",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1293",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15761,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1294",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1295",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1296",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1297",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1298",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1299",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1300",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1301",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1302",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1303",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1304",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1305",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21006,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1306",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1307",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1308",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1309",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18518,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1310",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1311",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1312",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1313",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1314",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1315",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1316",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1317",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1318",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1319",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1320",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1321",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1322",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1323",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1324",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1325",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1326",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1327",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1328",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1329",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19220,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1330",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1331",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1332",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1333",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1334",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1335",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1336",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1337",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1338",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1339",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1340",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1341",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1342",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1343",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1344",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21616,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1345",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1346",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1347",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1348",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1349",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1350",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1351",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1352",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1353",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1354",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1355",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1356",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 14623,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1357",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1358",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19173,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1359",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1360",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1361",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1362",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1363",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1364",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1365",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1366",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1367",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1368",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1369",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1370",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1371",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1372",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1373",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1374",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1375",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1376",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1377",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1378",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1379",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1380",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1381",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19216,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1382",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1383",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1384",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1385",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1386",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1387",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1388",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1389",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1390",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1391",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1392",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1393",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1394",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1395",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1396",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1397",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1398",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1399",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1400",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1401",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1402",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1403",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1404",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1405",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1406",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1407",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1408",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18789,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1409",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1410",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1411",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1412",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1413",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1414",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1415",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1416",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1417",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1418",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1419",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1420",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1421",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1422",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1423",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1424",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1425",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1426",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1427",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1428",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1429",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1430",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18020,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1431",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15752,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1432",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1433",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1434",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1435",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1436",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20477,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1437",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1438",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1439",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1440",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1441",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1442",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1443",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1444",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1445",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1446",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1447",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1448",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1449",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1450",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1451",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1452",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1453",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1454",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1455",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1456",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1457",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16820,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1458",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1459",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1460",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1461",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1462",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1463",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21620,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1464",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21618,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1465",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1466",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1467",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1468",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1469",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1470",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1471",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18020,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1472",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1473",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1474",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1475",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1476",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19220,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1477",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1478",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1479",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19220,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1480",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1481",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1482",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1483",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1484",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1485",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20419,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1486",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1487",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1488",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1489",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1490",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1491",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1492",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1493",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1494",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1495",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1496",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1497",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1498",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 15600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1499",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1500",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21600,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1501",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1502",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19220,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1503",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1504",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16800,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1505",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "1506",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19200,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2001",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17767,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2002",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17274,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2003",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21218,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2004",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21231,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2005",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21458,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2006",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21305,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2007",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19763,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2008",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20114,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2009",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18524,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2010",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18188,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2011",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18000,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2012",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18770,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2013",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18424,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2014",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17608,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2015",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16723,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2016",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 16585,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2017",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19119,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2018",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20450,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2019",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18849,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2020",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18155,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2021",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19230,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2022",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18384,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2023",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17541,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2024",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17678,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2025",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19130,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2026",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21347,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2027",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 21183,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2028",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18415,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2029",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18957,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2030",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18083,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2031",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17146,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2032",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17745,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2033",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17706,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2034",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17560,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2035",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 17761,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2036",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18599,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2037",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19099,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2038",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 18568,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2039",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19142,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2040",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20775,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2041",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20679,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2042",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19082,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2043",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 20400,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2044",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19110,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2045",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 14894,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    },
+    {
+      "record": "2046",
+      "annotations": [],
+      "annotation_errors": [],
+      "n_samples": 19137,
+      "fs": 4.0,
+      "channels": [
+        "FHR",
+        "UC"
+      ]
+    }
+  ]
+}

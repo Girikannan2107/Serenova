@@ -1,0 +1,79 @@
+{
+  "model_name": "Diabetes Random Forest Tuned",
+  "task": "binary classification",
+  "target": "Outcome",
+  "target_mapping": {
+    "0": "Outcome 0",
+    "1": "Outcome 1"
+  },
+  "features": [
+    "Pregnancies",
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI",
+    "DiabetesPedigreeFunction",
+    "Age"
+  ],
+  "zero_as_missing_columns": [
+    "Glucose",
+    "BloodPressure",
+    "SkinThickness",
+    "Insulin",
+    "BMI"
+  ],
+  "imputation": "median",
+  "preprocessing_fitted_inside_pipeline": true,
+  "model": {
+    "type": "RandomForestClassifier",
+    "n_estimators": 500,
+    "max_depth": 6,
+    "max_features": "log2",
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "class_weight": "balanced_subsample",
+    "random_state": 42
+  },
+  "dataset": {
+    "raw_rows": 768,
+    "feature_count": 8,
+    "train_rows": 537,
+    "validation_rows": 115,
+    "test_rows": 116
+  },
+  "selection": {
+    "baseline_cv_macro_f1": 0.7686,
+    "tuned_cv_macro_f1": 0.77364,
+    "cv_improvement": 0.00504,
+    "test_macro_f1": 0.7619949494949495,
+    "test_macro_f1_improvement": 0.020694949494949544
+  },
+  "locked_test_metrics": {
+    "accuracy": 0.7758620689655172,
+    "macro_precision": 0.7567401960784315,
+    "macro_recall": 0.7756578947368421,
+    "macro_f1": 0.7619949494949495,
+    "outcome_0_precision": 0.8676470588235294,
+    "outcome_0_recall": 0.7763157894736842,
+    "outcome_0_f1": 0.8194444444444444,
+    "outcome_1_precision": 0.6458333333333334,
+    "outcome_1_recall": 0.775,
+    "outcome_1_f1": 0.7045454545454546,
+    "confusion_matrix": [
+      [
+        59,
+        17
+      ],
+      [
+        9,
+        31
+      ]
+    ]
+  },
+  "test_used_for_training": false,
+  "test_used_for_model_selection": false,
+  "clinical_validation": false,
+  "production_approved": false,
+  "artifact_status": "experimental"
+}

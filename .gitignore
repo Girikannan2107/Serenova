@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build & Dist
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment files
+.env.local
+.env.*.local
+
+# Heavy raw datasets and large models (keep repo clean)
+**/data/raw/
+**/data/interim/
+**/data/processed/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.keras
+*.safetensors

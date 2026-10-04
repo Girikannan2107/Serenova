@@ -1,0 +1,253 @@
+{
+  "status": {
+    "connected": true,
+    "device_id": "serenova-pico-01",
+    "last_seen": 1791144019.9606953,
+    "sequence": 10,
+    "packet_count": 11,
+    "packet_loss": 0
+  },
+  "sensors": {
+    "ppg_ir": 12928,
+    "ppg_red": 12155,
+    "ecg": 2049,
+    "accel_x": 0.156,
+    "accel_y": 0.172,
+    "accel_z": 9.756,
+    "gyro_x": 0.0078,
+    "gyro_y": -0.0062,
+    "gyro_z": 0.0058,
+    "temperature_c": 36.75,
+    "piezo": 416
+  },
+  "latest": {
+    "timestamp": 1791144019.9606953,
+    "timestamp_ms": 1791144019944,
+    "device_id": "serenova-pico-01",
+    "sequence": 10,
+    "sensors": {
+      "ppg_ir": 12928,
+      "ppg_red": 12155,
+      "ecg": 2049,
+      "accel_x": 0.156,
+      "accel_y": 0.172,
+      "accel_z": 9.756,
+      "gyro_x": 0.0078,
+      "gyro_y": -0.0062,
+      "gyro_z": 0.0058,
+      "temperature_c": 36.75,
+      "piezo": 416
+    }
+  },
+  "history": [
+    {
+      "timestamp": 1791143425.4110975,
+      "timestamp_ms": 1791143425388,
+      "device_id": "serenova-pico-01",
+      "sequence": 1,
+      "sensors": {
+        "ppg_ir": 12500,
+        "ppg_red": 11800,
+        "ecg": 2048,
+        "accel_x": 0.05,
+        "accel_y": 0.12,
+        "accel_z": 9.81,
+        "gyro_x": 0.01,
+        "gyro_y": 0.02,
+        "gyro_z": 0.01,
+        "temperature_c": 36.8,
+        "piezo": 512
+      }
+    },
+    {
+      "timestamp": 1791144017.9887576,
+      "timestamp_ms": 1791144017984,
+      "device_id": "serenova-pico-01",
+      "sequence": 1,
+      "sensors": {
+        "ppg_ir": 12513,
+        "ppg_red": 11770,
+        "ecg": 2048,
+        "accel_x": 0.037,
+        "accel_y": 0.228,
+        "accel_z": 9.783,
+        "gyro_x": -0.0033,
+        "gyro_y": 0.0163,
+        "gyro_z": 0.012,
+        "temperature_c": 36.73,
+        "piezo": 1960
+      }
+    },
+    {
+      "timestamp": 1791144018.2193422,
+      "timestamp_ms": 1791144018193,
+      "device_id": "serenova-pico-01",
+      "sequence": 2,
+      "sensors": {
+        "ppg_ir": 14008,
+        "ppg_red": 13015,
+        "ecg": 2039,
+        "accel_x": 0.085,
+        "accel_y": 0.222,
+        "accel_z": 9.769,
+        "gyro_x": -0.0026,
+        "gyro_y": 0.0169,
+        "gyro_z": 0.0105,
+        "temperature_c": 36.73,
+        "piezo": 2010
+      }
+    },
+    {
+      "timestamp": 1791144018.4377902,
+      "timestamp_ms": 1791144018422,
+      "device_id": "serenova-pico-01",
+      "sequence": 3,
+      "sensors": {
+        "ppg_ir": 12026,
+        "ppg_red": 11425,
+        "ecg": 2064,
+        "accel_x": 0.085,
+        "accel_y": 0.231,
+        "accel_z": 9.788,
+        "gyro_x": 0.0053,
+        "gyro_y": 0.0212,
+        "gyro_z": 0.0132,
+        "temperature_c": 36.71,
+        "piezo": 555
+      }
+    },
+    {
+      "timestamp": 1791144018.6423297,
+      "timestamp_ms": 1791144018640,
+      "device_id": "serenova-pico-01",
+      "sequence": 4,
+      "sensors": {
+        "ppg_ir": 11105,
+        "ppg_red": 10690,
+        "ecg": 2042,
+        "accel_x": 0.11,
+        "accel_y": 0.225,
+        "accel_z": 9.795,
+        "gyro_x": 0.0105,
+        "gyro_y": 0.0129,
+        "gyro_z": 0.0064,
+        "temperature_c": 36.7,
+        "piezo": 537
+      }
+    },
+    {
+      "timestamp": 1791144018.8706865,
+      "timestamp_ms": 1791144018844,
+      "device_id": "serenova-pico-01",
+      "sequence": 5,
+      "sensors": {
+        "ppg_ir": 13175,
+        "ppg_red": 12307,
+        "ecg": 2893,
+        "accel_x": 0.127,
+        "accel_y": 0.212,
+        "accel_z": 9.805,
+        "gyro_x": 0.007,
+        "gyro_y": 0.0163,
+        "gyro_z": 0.0079,
+        "temperature_c": 36.72,
+        "piezo": 499
+      }
+    },
+    {
+      "timestamp": 1791144019.091563,
+      "timestamp_ms": 1791144019073,
+      "device_id": "serenova-pico-01",
+      "sequence": 6,
+      "sensors": {
+        "ppg_ir": 13635,
+        "ppg_red": 12714,
+        "ecg": 2050,
+        "accel_x": 0.117,
+        "accel_y": 0.225,
+        "accel_z": 9.792,
+        "gyro_x": 0.007,
+        "gyro_y": 0.0099,
+        "gyro_z": 0.0069,
+        "temperature_c": 36.72,
+        "piezo": 429
+      }
+    },
+    {
+      "timestamp": 1791144019.3071878,
+      "timestamp_ms": 1791144019295,
+      "device_id": "serenova-pico-01",
+      "sequence": 7,
+      "sensors": {
+        "ppg_ir": 11301,
+        "ppg_red": 10894,
+        "ecg": 2038,
+        "accel_x": 0.123,
+        "accel_y": 0.19,
+        "accel_z": 9.774,
+        "gyro_x": 0.0142,
+        "gyro_y": 0.009,
+        "gyro_z": 0.013,
+        "temperature_c": 36.72,
+        "piezo": 383
+      }
+    },
+    {
+      "timestamp": 1791144019.5245452,
+      "timestamp_ms": 1791144019510,
+      "device_id": "serenova-pico-01",
+      "sequence": 8,
+      "sensors": {
+        "ppg_ir": 11694,
+        "ppg_red": 11139,
+        "ecg": 2050,
+        "accel_x": 0.151,
+        "accel_y": 0.209,
+        "accel_z": 9.841,
+        "gyro_x": 0.0128,
+        "gyro_y": 0.0013,
+        "gyro_z": 0.0136,
+        "temperature_c": 36.72,
+        "piezo": 341
+      }
+    },
+    {
+      "timestamp": 1791144019.7416553,
+      "timestamp_ms": 1791144019726,
+      "device_id": "serenova-pico-01",
+      "sequence": 9,
+      "sensors": {
+        "ppg_ir": 13814,
+        "ppg_red": 12916,
+        "ecg": 2273,
+        "accel_x": 0.173,
+        "accel_y": 0.185,
+        "accel_z": 9.814,
+        "gyro_x": 0.0053,
+        "gyro_y": -0.0016,
+        "gyro_z": 0.0079,
+        "temperature_c": 36.73,
+        "piezo": 359
+      }
+    },
+    {
+      "timestamp": 1791144019.9606953,
+      "timestamp_ms": 1791144019944,
+      "device_id": "serenova-pico-01",
+      "sequence": 10,
+      "sensors": {
+        "ppg_ir": 12928,
+        "ppg_red": 12155,
+        "ecg": 2049,
+        "accel_x": 0.156,
+        "accel_y": 0.172,
+        "accel_z": 9.756,
+        "gyro_x": 0.0078,
+        "gyro_y": -0.0062,
+        "gyro_z": 0.0058,
+        "temperature_c": 36.75,
+        "piezo": 416
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+# ============================================================
+# Serenova Backend - Dependencies
+# ============================================================
+
+# --- Core Data Science & Numerical Processing ---
+numpy>=1.26.0
+pandas>=2.1.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# --- Machine Learning & Deep Learning Models ---
+xgboost>=2.0.0
+torch>=2.2.0
+
+# --- Biomedical Signal Processing & Audio ---
+wfdb>=4.1.2
+pyEDFlib>=0.1.37
+soundfile>=0.12.1
+
+# --- API, WebSockets & Server (FastAPI Architecture) ---
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+websockets>=12.0
+pydantic>=2.6.0
+
+# --- Evaluation, Explainability & Visualization ---
+shap>=0.44.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# --- Vector Store & Utilities ---
+chromadb>=0.4.24
+requests>=2.31.0

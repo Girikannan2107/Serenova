@@ -1,0 +1,98 @@
+{
+    "train": {
+        "shape": [
+            1776,
+            64,
+            157
+        ],
+        "dtype": "float32",
+        "finite": true,
+        "global": {
+            "mean": 0.2801792323589325,
+            "std": 0.6996344923973083,
+            "min": -2.22550892829895,
+            "max": 15.50546932220459
+        },
+        "latent": {
+            "channels": 64,
+            "temporal_length": 157,
+            "mean_channel_std": 0.6811332702636719,
+            "min_channel_std": 0.37351566553115845,
+            "max_channel_std": 0.9601442217826843,
+            "collapsed_channels": 0,
+            "mean_temporal_std": 0.5800541639328003
+        },
+        "window_energy": {
+            "mean": 0.5679888636725484,
+            "std": 0.44152966386358283,
+            "min": 0.2410222785837613,
+            "max": 1.4778212761550835
+        }
+    },
+    "val": {
+        "shape": [
+            384,
+            64,
+            157
+        ],
+        "dtype": "float32",
+        "finite": true,
+        "global": {
+            "mean": 0.2841772139072418,
+            "std": 0.7113986611366272,
+            "min": -2.1152055263519287,
+            "max": 14.57820987701416
+        },
+        "latent": {
+            "channels": 64,
+            "temporal_length": 157,
+            "mean_channel_std": 0.6919285655021667,
+            "min_channel_std": 0.3722820281982422,
+            "max_channel_std": 0.977443516254425,
+            "collapsed_channels": 0,
+            "mean_temporal_std": 0.5902342200279236
+        },
+        "window_energy": {
+            "mean": 0.5868447402757945,
+            "std": 0.44796407056217646,
+            "min": 0.2633433135604518,
+            "max": 1.469727113602973
+        }
+    },
+    "test": {
+        "shape": [
+            384,
+            64,
+            157
+        ],
+        "dtype": "float32",
+        "finite": true,
+        "global": {
+            "mean": 0.27727681398391724,
+            "std": 0.6776254773139954,
+            "min": -2.136120557785034,
+            "max": 14.857691764831543
+        },
+        "latent": {
+            "channels": 64,
+            "temporal_length": 157,
+            "mean_channel_std": 0.6619973182678223,
+            "min_channel_std": 0.36521193385124207,
+            "max_channel_std": 0.8920109868049622,
+            "collapsed_channels": 0,
+            "mean_temporal_std": 0.5647764205932617
+        },
+        "window_energy": {
+            "mean": 0.5360587437313646,
+            "std": 0.4129722274906559,
+            "min": 0.25578533577004003,
+            "max": 1.4266617557658343
+        }
+    },
+    "distribution_comparison": {
+        "mean_difference_train_val": 0.003997981548309326,
+        "mean_difference_train_test": 0.002902418375015259,
+        "std_difference_train_val": 0.011764168739318848,
+        "std_difference_train_test": 0.02200901508331299
+    }
+}

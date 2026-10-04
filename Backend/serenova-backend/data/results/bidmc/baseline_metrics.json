@@ -1,0 +1,61 @@
+{
+    "model_architecture": "Waveform1DCNNAutoencoder",
+    "task": "unsupervised_waveform_representation_and_reconstruction",
+    "dataset": "bidmc",
+    "seed": 42,
+    "input_channels": 2,
+    "channel_mapping": {
+        "0": "PLETH_PPG",
+        "1": "RESP"
+    },
+    "input_window_samples": 1250,
+    "sampling_rate_hz": 125,
+    "window_duration_seconds": 10,
+    "latent_dim": 64,
+    "latent_shape": [
+        64,
+        157
+    ],
+    "parameters_count": 194946,
+    "trainable_parameters_count": 194946,
+    "training_epochs": 15,
+    "training_time_seconds": 25.27,
+    "best_val_mse": 0.001179,
+    "train_shape": [
+        1776,
+        2,
+        1250
+    ],
+    "val_shape": [
+        384,
+        2,
+        1250
+    ],
+    "test_shape": [
+        384,
+        2,
+        1250
+    ],
+    "test_metrics": {
+        "overall": {
+            "mse": 0.001078,
+            "rmse": 0.032832,
+            "mae": 0.019647,
+            "snr_db": 27.96
+        },
+        "ppg_channel": {
+            "channel_name": "PLETH_PPG",
+            "mse": 0.001182,
+            "mae": 0.020654,
+            "pearson_r": 0.9995
+        },
+        "respiration_channel": {
+            "channel_name": "RESP",
+            "mse": 0.000974,
+            "mae": 0.018639,
+            "pearson_r": 0.9993
+        }
+    },
+    "checkpoint_path": "D:\\Backend\\serenova-backend\\data\\results\\bidmc\\model\\bidmc_1dcnn_autoencoder.pt",
+    "status": "experimental_waveform_reconstruction_baseline"
+}

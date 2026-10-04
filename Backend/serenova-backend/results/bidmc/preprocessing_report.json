@@ -1,0 +1,48 @@
+{
+    "dataset": "BIDMC PPG and Respiration",
+    "status": "COMPLETED_SUCCESSFULLY",
+    "raw_records_processed": 53,
+    "total_windows_generated": 2544,
+    "windows_per_record": 48,
+    "sampling_rate_hz": 125,
+    "window_duration_seconds": 10,
+    "window_samples": 1250,
+    "channels": {
+        "channel_0": "PLETH_PPG (0.5-5.0 Hz bandpass)",
+        "channel_1": "RESP (0.1-0.7 Hz bandpass)"
+    },
+    "splits": {
+        "train": {
+            "records_count": 37,
+            "windows_count": 1776,
+            "shape": [
+                1776,
+                2,
+                1250
+            ]
+        },
+        "val": {
+            "records_count": 8,
+            "windows_count": 384,
+            "shape": [
+                384,
+                2,
+                1250
+            ]
+        },
+        "test": {
+            "records_count": 8,
+            "windows_count": 384,
+            "shape": [
+                384,
+                2,
+                1250
+            ]
+        }
+    },
+    "quality_summary": {
+        "mean_composite_quality_score": 0.7898,
+        "min_composite_quality_score": 0.6774,
+        "max_composite_quality_score": 0.8852
+    }
+}
